@@ -1,0 +1,33 @@
+/* .j{ 
+  width:90% ;
+   height: 300px;
+   background-color: red;
+   margin: 0 auto;
+}*/
+header{
+    width: 100%;
+    height:300px;
+    background-color: blue;
+
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background-color: forestgreen;
+}
+#k{
+   height: 500px;
+   width: 100%;
+   background-color: blueviolet;
+}
+footer{
+    height:500px;
+    width: 100%;
+    background-color: brown;
+}
+.g{
+    height: 500px;
+    width: 100%;
+    background-color: bisque;
+}
+
