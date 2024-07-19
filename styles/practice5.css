@@ -1,0 +1,211 @@
+.bg{
+    width: 90%;
+    height: 1500px;
+    margin: 0 auto;
+    background-color: aqua;
+}
+header{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(13, 13, 15);
+}
+nav{
+    width: 100%;
+    height: 50px;
+    background-color: green;
+}
+.numbers{
+    height:800 px;
+    background-color: rosybrown;
+}
+#one{
+    height: 800px;
+    width: 25%;
+    background-color: white;
+    float: left;
+}
+#une{
+    height: 266.6px;
+    background-color: red;
+}
+.aa{
+    height: 88.9px;
+    width: 50%;
+    background-color: brown;
+}
+.ab{
+    height: 88.9px;
+    width: 50%;
+    background-color: gold;
+}
+.ac{
+    height: 88.9px;
+    width: 50%;
+    background-color: rgb(255, 0, 221);
+}
+#deux{
+    height: 266.6px;
+    margin: 0;
+    background-color: blue;
+}
+#trois{
+    height: 266.6px;
+    margin: 0;
+    background-color: green;
+}
+.man{
+    height: 266.6px;
+    width: 50%;
+    background-color: yellow;
+    float: right;
+}
+.girl2{
+    height: 133.3px;
+    background-color: beige;
+}
+.girl{
+    height: 133.3px;
+    background-color: aquamarine;
+}
+.old{
+    height: 133.3px;
+    width: 50%;
+    background-color: blueviolet;
+    float: right;
+}
+.menu{
+    height: 133.3px;
+    width: 50%;
+    background-color: red;
+    float: right;
+}
+.check{
+    height: 66.7px;
+    background-color: yellowgreen;
+}
+.host{
+    height: 66.7px;
+    background-color: green;
+}
+.home{
+    height: 133.3px;
+    width: 50%;
+    background-color: orange;
+}
+.young{
+    height: 133.3px;
+    width: 50%;
+    background-color: black;
+}
+.boy{
+    height: 266.6px;
+    width: 50%;
+    background-color: red;
+}
+#two{
+    height: 800px;
+    width: 25%;
+    background-color: red;
+    float: left;
+}
+#three{
+    height: 800px;
+    width: 25%;
+    background-color: green;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
+#four{
+    height: 800px;
+    width: 25%;
+    background-color: white;
+    float: right;
+}
+#good{
+    height: 266.6px;
+    width: 100%;
+    background-color: red;
+    float: right;
+    padding-bottom: 65px;
+}
+.div1{
+    height: 88.86px;
+    width: 50%;
+    background-color: green; 
+    float: left;
+    padding-top: 184px;
+}
+.div2{
+    height: 88.86px;
+    width: 50%;
+    background-color: firebrick;
+    float:left;
+}
+.div3{
+    height: 88.86px;
+    width: 50%;
+    background-color: aqua;
+    float: left;
+}
+img+h2{
+text-align: center;
+}
+  .num{
+    height: 266.6px;
+    width: 50%;
+    background-color: white;
+  }
+.rel{
+    height: 266.6px;
+    width: 50%;
+    background-color: blue;
+    float: right;
+    padding-right: 230px;
+  }
+#bad{
+    height: 266.6px;
+    width:100%;
+    background-color: blanchedalmond;
+}
+.life{
+    height: 266.6px;
+    width: 100%;
+    background-color: white;
+}
+#l1{
+    height: 133.3px;
+    width: 50%;
+    background-color: white;
+    float: left;
+    padding-top: 131px;
+}
+.money{
+    text-align: center;
+}
+#l2{
+    height: 133.3px;
+    width: 50%;
+    background-color: rgb(191, 247, 184);
+    padding-top: 135px;
+    float: right;
+}
+#l21{
+    height: 66.7px;
+    width: 50%;
+    background-color: red;
+    padding-right: 60px;
+}
+#l22{
+    height: 62.5px;
+    width: 50%;
+    background-color: blue;
+    padding-right: 60px;
+}
+footer{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(12, 12, 15);
+}
