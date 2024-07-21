@@ -20,6 +20,12 @@ background-color: blueviolet;
     height: 700px;
     background-color: black;
 }
+#content{
+    width: 50%;
+    height: 700px;
+    background-color: cadetblue;
+    float: left;
+}
 .container{
     width: 50%;
     height: 700px;
@@ -36,6 +42,11 @@ background-color: blueviolet;
     height: 233.3px;
     background-color: gold;
 }
+.three{
+    width: 100%;
+    height: 233.3px;
+    background-color: blue;
+}
 .h1{
     height: 100px;
     width: 200px;
@@ -44,15 +55,21 @@ background-color: blueviolet;
 }
 .a{
     height: 100px;
-    width: 66.6px;
+    width: 33.3%;
     background-color: red;
     float: left;
 }
 .b{
     height: 100px;
-    width: 66.6px;
+    width: 33.3%;
     background-color: green;
     float: left;
+}
+.c{
+    height: 100px;
+    width: 33.3%;
+    background-color: black;
+    float: right;
 }
 .h2{
     height: 100px;
@@ -74,15 +91,34 @@ background-color: blueviolet;
 }
 .aa{
     height: 100px;
-    width: 66.6px;
+    width: 33.3%;
     background-color: blue;
     float: left;
+    font: size 24px;
+    text-align: center;
+}
+img{
+    width: 100%;
+    height: 100%;
 }
 .ab{
     height: 100px;
-    width: 66.6px;
+    width: 33.3%;
     background-color: green;
     float: left;
+    font: size 24px;
+    text-align: center;
+}
+.t{
+    color: blue;
+}
+.ac{
+    height: 100px;
+    width: 33.3%;
+    background-color: aqua;
+    float: right;
+    font: size 24px;
+    text-align: center;
 }
 footer{
 height: 150px;
