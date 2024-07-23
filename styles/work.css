@@ -52,6 +52,8 @@ background-color: blueviolet;
     width: 200px;
     background-color: blueviolet;
     float: right;
+    margin-right: 240px;
+    margin-top: 30px;
 }
 .a{
     height: 100px;
@@ -76,18 +78,25 @@ background-color: blueviolet;
     width: 200px;
     background-color: yellow;
     float: left;
+    margin-left:240px;
+    margin-top: 30px;
 }
 .first{
     height: 100px;
     width: 200px;
     background-color: blueviolet;
     float: right;
+    margin-right: 240px;
+    margin-top: 20px;
+    
 }
 .second{
     height: 100px;
     width: 200px;
     background-color: yellow;
     float: left;
+    margin-left:240px;
+    margin-top: 20px;
 }
 .aa{
     height: 100px;

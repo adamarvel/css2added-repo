@@ -1,0 +1,14 @@
+.head1:hover{
+    color: red;
+    text-align: center;
+    background-color: blueviolet;
+    text-transform: uppercase;
+}
+.img1:hover{
+    width: 300px;
+    height: 300px;
+}
+p::first-letter{
+    color: blue;
+    font-size: 24px;
+}
