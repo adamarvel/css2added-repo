@@ -1,0 +1,25 @@
+.input{
+    width: 80%;
+    height: 50px;
+    border-radius: 30px;
+    padding-left: 30px;
+    color: yellowgreen;
+    margin-top: 8px;
+    border: none;
+}
+.r{
+    padding: 15px;
+    color: aqua;
+    background-color: blue;
+     border: none;
+     border-radius: 60px;
+}
+body{
+    border-bottom: solid;
+    background-image: url('../images/download\ \(5\).jfif');
+    background-size: cover;
+    background-attachment: fixed;
+}
+#rc{
+margin: 100px;
+}

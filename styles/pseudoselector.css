@@ -10,5 +10,17 @@
 }
 p::first-letter{
     color: blue;
+    font-size: 34px;
+    font-family: Arial black;
+}
+p::first-line{
+    color: aqua;
     font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.head1::after{
+    content: url('../images/download\ \(13\).jfif');
+}
+.head2::before{
+    content: url("../images/download\ \(13\).jfif");
 }
