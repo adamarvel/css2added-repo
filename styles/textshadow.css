@@ -1,0 +1,12 @@
+.class1{
+    text-shadow: 2px 2px red;
+}
+.class2{
+    text-shadow: 2px 2px 4px blue;
+}
+.box1{
+    box-shadow: 2px 2px blue;
+}
+.box2{
+    box-shadow: 2px 2px 4px green;
+}
